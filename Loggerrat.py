@@ -1,8 +1,12 @@
 "THIS IS A LEETCODE PROBLEM LOGGER RATE DO NOT FORGET"
+<<<<<<< HEAD
 "Good thing to edit this message out very quickly"
 "This is easy level leetcode problem"
 "This is a nice headache to have"
 "Restore example"
+=======
+
+>>>>>>> parent of 9385d80 (Edit comment in Loggerrat.py)
 class LoggerRateLimit:
     def __init__(self):
         self.limiter={}

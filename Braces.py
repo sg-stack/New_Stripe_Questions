@@ -15,3 +15,5 @@ if sta1<end1 and sta1>=0 and end1>=0 and len(b)>1:
         q=""
 else:
     print(s)
+    "Hello"
+    "good thing"
