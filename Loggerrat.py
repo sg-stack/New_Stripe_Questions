@@ -2,6 +2,7 @@
 "Good thing to edit this message out very quickly"
 "This is easy level leetcode problem"
 "This is a nice headache to have"
+"Restore example"
 class LoggerRateLimit:
     def __init__(self):
         self.limiter={}
