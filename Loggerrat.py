@@ -1,6 +1,7 @@
 "THIS IS A LEETCODE PROBLEM LOGGER RATE DO NOT FORGET"
 "Good thing to edit this message out very quickly"
 "This is easy level leetcode problem"
+"This is a nice headache to have"
 class LoggerRateLimit:
     def __init__(self):
         self.limiter={}
